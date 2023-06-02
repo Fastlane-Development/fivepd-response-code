@@ -1,0 +1,11 @@
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\ResponseCode.net.dll
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\ResponseCode.net.pdb
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\CitizenFX.Core.Client.dll
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\FivePD.net.dll
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\CitizenFX.Core.Client.xml
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\bin\Release\FivePD.net.xml
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\obj\Release\ResponseCode.csproj.AssemblyReference.cache
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\obj\Release\ResponseCode.csproj.CoreCompileInputs.cache
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\obj\Release\ResponseCode.csproj.CopyComplete
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\obj\Release\ResponseCode.net.dll
+C:\Users\Rex\source\repos\ResponseCode\ResponseCode\obj\Release\ResponseCode.net.pdb
